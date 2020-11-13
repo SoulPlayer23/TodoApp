@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'UI/Intray/intray_page.dart';
 import 'models/global.dart';
-import 'UI/Intray/intray_page.dart';
+//import 'UI/Intray/intray_page.dart';
 
 void main() {
   runApp(MyApp());
